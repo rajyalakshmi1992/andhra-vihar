@@ -1,0 +1,33 @@
+<div class="container">
+  <div class="category">
+    <form>
+      <label for="menu">Categories:</label>
+      <select
+        name="menu"
+        id="menu"
+        [(ngModel)]="category"
+        (ngModelChange)="getCategory($event)"
+      >
+        <option value="all">All</option>
+        <option
+          *ngFor="let item of categoryList"
+          value="{{ item.categoryCode }}"
+        >
+          {{ item.category }}
+        </option>
+      </select>
+    </form>
+  </div>
+  <div>
+    <li class="menu-list" *ngFor="let item of menuList">
+      <div class="menu-item">
+        <img
+          class="itemimg"
+          src="../../assets/images/menu/{{ item.imgUrl }}"
+          alt="avatar"
+        />
+        <p>{{ item.itemName }}</p>
+      </div>
+    </li>
+  </div>
+</div>

@@ -1,0 +1,25 @@
+.category {
+  display: flex;
+  min-width: 30px;
+  li {
+    list-style: none;
+    background-color: palegreen;
+    margin: 50px;
+  }
+}
+.container {
+  background-color: #fff;
+}
+.itemimg {
+  width: 200px;
+  height: 200px;
+  border: 5px solid #555;
+}
+.menu-list{
+  list-style: none;
+  display: inline-block;
+}
+.menu-item{
+  display: inline-block;
+  margin: 10px 20px;
+}

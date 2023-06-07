@@ -1,0 +1,391 @@
+{
+  "menuItems": [
+    {
+      "categoryCode": "c01",
+      "category": "Starters",
+      "itemName": "Chiken Fry",
+      "itemCode": "AV00011",
+      "itemPrice": 200,
+      "isAvailable": true,
+      "imgUrl": "chikenfry.jpg"
+    },
+    {
+      "categoryCode": "c01",
+      "category": "Starters",
+      "itemName": "Mutton Fry",
+      "itemCode": "AV00012",
+      "itemPrice": 300,
+      "isAvailable": true,
+      "imgUrl": "mutton-fry.jpg"
+    },
+    {
+      "categoryCode": "c01",
+      "category": "Starters",
+      "itemName": "Apollo Fish",
+      "itemCode": "AV00013",
+      "itemPrice": 250,
+      "isAvailable": true,
+      "imgUrl": "apollofish.jpg"
+    },
+    {
+      "categoryCode": "c01",
+      "category": "Starters",
+      "itemName": "Veg Rolls",
+      "itemCode": "AV00014",
+      "itemPrice": 120,
+      "isAvailable": true,
+      "imgUrl": "veg-spring-rolls.jpg"
+    },
+    {
+      "categoryCode": "c01",
+      "category": "Starters",
+      "itemName": "Manchuria",
+      "itemCode": "AV00015",
+      "itemPrice": 200,
+      "isAvailable": true,
+      "imgUrl": "manchuria.jpg"
+    },
+    {
+      "categoryCode": "c01",
+      "category": "Starters",
+      "itemName": "Panner-65",
+      "itemCode": "AV00016",
+      "itemPrice": 120,
+      "isAvailable": true,
+      "imgUrl": "panner65.jpg"
+    },
+    {
+      "categoryCode": "c01",
+      "category": "Starters",
+      "itemName": "Crispy Corn",
+      "itemCode": "AV00016",
+      "itemPrice": 200,
+      "isAvailable": true,
+      "imgUrl": "crispycorn.jpg"
+    },
+    {
+      "categoryCode": "c02",
+      "category": "Tiffins",
+      "itemName": "Idly",
+      "itemCode": "AV00021",
+      "itemPrice": 30,
+      "isAvailable": true,
+      "imgUrl": "idly.jpg"
+    },
+    {
+      "categoryCode": "c02",
+      "category": "Tiffins",
+      "itemName": " Ghee Karam Idly",
+      "itemCode": "AV00022",
+      "itemPrice": 50,
+      "isAvailable": true,
+      "imgUrl": "ghee-karam-Idly.jpg"
+    },
+    {
+      "categoryCode": "c02",
+      "category": "Tiffins",
+      "itemName": "Dosa",
+      "itemCode": "AV00023",
+      "itemPrice": 50,
+      "isAvailable": true,
+      "imgUrl": "dosa.jpg"
+    },
+    {
+      "categoryCode": "c02",
+      "category": "Tiffins",
+      "itemName": "Onion Dosa",
+      "itemCode": "AV00024",
+      "itemPrice": 60,
+      "isAvailable": true,
+      "imgUrl": "onion-dosa.jpg"
+    },
+    {
+      "categoryCode": "c02",
+      "category": "Tiffins",
+      "itemName": "Ghee Karam Dosa",
+      "itemCode": "AV00025",
+      "itemPrice": 80,
+      "isAvailable": true,
+      "imgUrl": "ghee-karam-dosa.jpg"
+    },
+    {
+      "categoryCode": "c02",
+      "category": "Tiffins",
+      "itemName": "Poori",
+      "itemCode": "AV00026",
+      "itemPrice": 50,
+      "isAvailable": true,
+      "imgUrl": "poori.jpg"
+    },
+    {
+      "categoryCode": "c02",
+      "category": "Tiffins",
+      "itemName": "Uttappam",
+      "itemCode": "AV00027",
+      "itemPrice": 40,
+      "isAvailable": true,
+      "imgUrl": "uttappam.jpg"
+    },
+    {
+      "categoryCode": "c02",
+      "category": "Tiffins",
+      "itemName": "Pesarattu",
+      "itemCode": "AV00028",
+      "itemPrice": 60,
+      "isAvailable": true,
+      "imgUrl": "Pesarattu.jpg"
+    },
+    {
+      "categoryCode": "c02",
+      "category": "Tiffins",
+      "itemName": "Upma",
+      "itemCode": "AV00029",
+      "itemPrice": 30,
+      "isAvailable": true,
+      "imgUrl": "upma.jpg"
+    },
+    {
+      "categoryCode": "c02",
+      "category": "Tiffins",
+      "itemName": "Upma Pesarattu",
+      "itemCode": "AV00030",
+      "itemPrice": 60,
+      "isAvailable": true,
+      "imgUrl": "upma-pesarattu.jpg"
+    },
+    {
+      "categoryCode": "c03",
+      "category": "Breads",
+      "itemName": "Pizza",
+      "itemCode": "AV00031",
+      "itemPrice": 250,
+      "isAvailable": true,
+      "imgUrl": "Pizza.jpg"
+    },
+    {
+      "categoryCode": "c03",
+      "category": "Breads",
+      "itemName": " Veg Burger",
+      "itemCode": "AV00032",
+      "itemPrice": 150,
+      "isAvailable": true,
+      "imgUrl": "veg-burger.jpg"
+    },
+    {
+      "categoryCode": "c03",
+      "category": "Breads",
+      "itemName": "Chiken Burger",
+      "itemCode": "AV00033",
+      "itemPrice": 200,
+      "isAvailable": true,
+      "imgUrl": "chikenburger.jpg"
+    },
+    {
+      "categoryCode": "c03",
+      "category": "Breads",
+      "itemName": "Butter naan",
+      "itemCode": "AV00034",
+      "itemPrice": 30,
+      "isAvailable": true,
+      "imgUrl": "butternaan.jpg"
+    },
+    {
+      "categoryCode": "c03",
+      "category": "Breads",
+      "itemName": "Pulka",
+      "itemCode": "AV00035",
+      "itemPrice": 20,
+      "isAvailable": true,
+      "imgUrl": "Pulka.jpg"
+    },
+    {
+      "categoryCode": "c03",
+      "category": "Breads",
+      "itemName": "Roti",
+      "itemCode": "AV00036",
+      "itemPrice": 20,
+      "isAvailable": true,
+      "imgUrl": "roti.jpg"
+    },
+    {
+      "categoryCode": "c03",
+      "category": "Breads",
+      "itemName": "Sandwich",
+      "itemCode": "AV00037",
+      "itemPrice": 120,
+      "isAvailable": true,
+      "imgUrl": "sandwich.jpg"
+    },
+    {
+      "categoryCode": "c03",
+      "category": "Breads",
+      "itemName": "Egg Grilled Sandwich",
+      "itemCode": "AV00038",
+      "itemPrice": 150,
+      "isAvailable": true,
+      "imgUrl": "egg-grilled-sandwich.jpg"
+    },
+    {
+      "categoryCode": "c04",
+      "category": "rice",
+      "itemName": "Chicken Biryani",
+      "itemCode": "AV0001",
+      "itemPrice": 200,
+      "isAvailable": true,
+      "imgUrl": "hyderabadi-chicken-biryani.jpg"
+    },
+    {
+      "categoryCode": "c04",
+      "category": "rice",
+      "itemName": "Veg Biryani",
+      "itemCode": "AV0002",
+      "itemPrice": 150,
+      "isAvailable": true,
+      "imgUrl": "veg-biryani.jpg"
+    },
+    {
+      "categoryCode": "c04",
+      "category": "rice",
+      "itemName": "Mutton Biryani",
+      "itemCode": "AV0003",
+      "itemPrice": 300,
+      "isAvailable": true,
+      "imgUrl": "mutton-biryani.jpg"
+    },
+    {
+      "categoryCode": "c04",
+      "category": "rice",
+      "itemName": "Mutton  Fry Biryani",
+      "itemCode": "AV0004",
+      "itemPrice": 350,
+      "isAvailable": true,
+      "imgUrl": "mutton--fry biryani.jpg"
+    },
+    {
+      "categoryCode": "c04",
+      "category": "rice",
+      "itemName": "Pot Biryani",
+      "itemCode": "AV0005",
+      "itemPrice": 300,
+      "isAvailable": true,
+      "imgUrl": "pot-biryani.jpg"
+    },
+    {
+      "categoryCode": "c04",
+      "category": "rice",
+      "itemName": "Panner Biryani",
+      "itemCode": "AV0006",
+      "itemPrice": 170,
+      "isAvailable": true,
+      "imgUrl": "panner-biryani.jpg"
+    },
+    {
+      "categoryCode": "c04",
+      "category": "rice",
+      "itemName": "Chiken Fry Biryani",
+      "itemCode": "AV0007",
+      "itemPrice": 200,
+      "isAvailable": true,
+      "imgUrl": "chiken-fry-biryani.jpg"
+    },
+    {
+      "categoryCode": "c05",
+      "category": "Drinks",
+      "itemName": "Thums-Up",
+      "itemCode": "AV00051",
+      "itemPrice": 20,
+      "isAvailable": true,
+      "imgUrl": "thums-up.jpg"
+    },
+    {
+      "categoryCode": "c05",
+      "category": "Drinks",
+      "itemName": "Pepsi",
+      "itemCode": "AV00052",
+      "itemPrice": 20,
+      "isAvailable": true,
+      "imgUrl": "Pepsi.jpg"
+    },
+    {
+      "categoryCode": "c05",
+      "category": "Drinks",
+      "itemName": "Lassi",
+      "itemCode": "AV00053",
+      "itemPrice": 50,
+      "isAvailable": true,
+      "imgUrl": "lassi.jpg"
+    },
+    {
+      "categoryCode": "c05",
+      "category": "Drinks",
+      "itemName": "Coctail",
+      "itemCode": "AV00054",
+      "itemPrice": 120,
+      "isAvailable": true,
+      "imgUrl": "cocktails.jpg"
+    },
+    {
+      "categoryCode": "c05",
+      "category": "Drinks",
+      "itemName": "Mango Lassi",
+      "itemCode": "AV00055",
+      "itemPrice": 80,
+      "isAvailable": true,
+      "imgUrl": "mango-lassi.jpg"
+    },
+    {
+      "categoryCode": "c05",
+      "category": "Drinks",
+      "itemName": "Sprite",
+      "itemCode": "AV00056",
+      "itemPrice": 20,
+      "isAvailable": true,
+      "imgUrl": "sprite.jpg"
+    },
+    {
+      "categoryCode": "c06",
+      "category": "Dessert",
+      "itemName": "Double Ka Meeta",
+      "itemCode": "AV00061",
+      "itemPrice": 60,
+      "isAvailable": true,
+      "imgUrl": "double-ka-metha.jpg"
+    },
+    {
+      "categoryCode": "c06",
+      "category": "Dessert",
+      "itemName": "Gulabjamun",
+      "itemCode": "AV00062",
+      "itemPrice": 50,
+      "isAvailable": true,
+      "imgUrl": "gulabjamun.jpg"
+    },
+    {
+      "categoryCode": "c06",
+      "category": "Dessert",
+      "itemName": "Ice-Cream",
+      "itemCode": "AV00063",
+      "itemPrice": 30,
+      "isAvailable": true,
+      "imgUrl": "scoops-ice-cream.jpg"
+    },
+    {
+      "categoryCode": "c06",
+      "category": "Dessert",
+      "itemName": "Cakes",
+      "itemCode": "AV00064",
+      "itemPrice": 30,
+      "isAvailable": true,
+      "imgUrl": "cakes.jpg"
+    },
+    {
+      "categoryCode": "c06",
+      "category": "Dessert",
+      "itemName": "Choclate-Pastry",
+      "itemCode": "AV00065",
+      "itemPrice": 30,
+      "isAvailable": true,
+      "imgUrl": "choclatepastry.jpg"
+    }
+  ]
+}
